@@ -9,6 +9,7 @@
 #### Check out my website: [tylerhinrichs.com](https://tylerhinrichs.com)
 
 #### Watch my lecture videos on testing Android Apps [here](https://www.youtube.com/watch?v=mviSXhgEc8A) and [here](https://www.youtube.com/watch?v=SjbA-RDVruc&t=430s)
+- 👨‍🏫 Created in the UConn lightroom for CSE 3200
 
 #### Some of my other interests are:
 - 🎧 Music production - check out my work on my linktr.ee [here](https://linktr.ee/tyfreestyle) and on Audiotool [here](https://audiotool.com/user/tylernh99)
