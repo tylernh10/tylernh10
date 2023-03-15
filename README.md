@@ -6,15 +6,11 @@
 - 🔨 Proficient in Python, C++, Kotlin, and Java
 - 🐛 Big fan of Android app development
 - 🤔 Looking to learn React.js  
-<br>
+#### Check out my website: [tylerhinrichs.com](https://tylerhinrichs.com)
 
-### Check out my website: [tylerhinrichs.com](https://tylerhinrichs.com)
-<br>
+#### Watch my lecture videos on testing Android Apps [here](https://www.youtube.com/watch?v=mviSXhgEc8A) and [here](https://www.youtube.com/watch?v=SjbA-RDVruc&t=430s)
 
-### Watch my lecture videos on testing Android Apps [here](https://www.youtube.com/watch?v=mviSXhgEc8A) and [here](https://www.youtube.com/watch?v=SjbA-RDVruc&t=430s)
-<br>
-
-### Some of my other interests are:
+#### Some of my other interests are:
 - 🎧 Music production - check out my work on my linktr.ee [here](https://linktr.ee/tyfreestyle) and on Audiotool [here](https://audiotool.com/user/tylernh99)
 - 🧩 Tetris - check out my stats [here](https://ch.tetr.io/u/tyfreestyle) and my config file in this repo
 
