@@ -1,0 +1,104 @@
+% Document class and font size
+\documentclass[a4paper,10pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.75in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+\textbf{\Large Tyler Hinrichs}\\[2pt] % Name
+Greater Hartford, CT | \href{mailto:tyler.hinrichs@uconn.edu}{tyler.hinrichs@uconn.edu} | (860) 798-4276\\ \href{https://www.linkedin.com/in/tylerhinrichs}{linkedin.com/in/tylerhinrichs} | \href{https://tylerhinrichs.com}{tylerhinrichs.com} | \href{https://github.com/tylernh10}{github.com/tylernh10} % Contact info
+\end{center}
+
+% Education Section
+\section*{EDUCATION}
+\noindent
+\textbf{University of Connecticut}, Storrs, CT \hfill May 2024\\ % University name and location
+\textbf{Bachelor of Science, Computer Science} \textbar \space Software Design and Development Concentration \hfill GPA: 4.0\\ % Degree and GPA
+Honors Program, Dean’s List, Babbidge Scholar, Mathematics Minor \\
+\\
+\textbf{Teaching Assistant:} CSE 3200, Mobile Application Development \hfill August 2023 - Present \\
+\textbf{Senior Design Project:} Team Manager, led fullstack development w/ LogicBroker \hfill August 2023 - Present
+% Additional info
+
+
+% Experience Section
+\section*{EXPERIENCE}
+\noindent
+\textbf{Travelers} \textbar \space TLDP Software Engineering Intern \hfill Hartford, CT \textbar \space June 2023 - August 2023 % Company name and location
+\begin{itemize}
+    \item Reimagined audit system for Engineering Excellence team by creating a robust automation application leveraging Python and Selenium; created flexible and reusable code through page object model pattern, MVC pattern, and other OOP principles; promoted extensibility through modular code and detailed documentation; working in an Agile environment to methodically develop application % Job responsibilities and achievements
+\end{itemize}
+
+\noindent
+\textbf{Wellinks} \textbar \space Junior Software Engineer \hfill New Haven, CT \textbar \space August 2022 - March 2023 % Company name and location
+\begin{itemize}
+    \item Continued to deliver elegant Kotlin code as an Android developer, reenvisioned “Today’s Weather” proof of concept through GPS feature addition, integrated third-party tools into Android app such as Rollbar and Mixpanel, collaborated across teams to accomplish tasks effectively % Job responsibilities and achievements
+\end{itemize}
+
+\noindent
+\textbf{Wellinks} \textbar \space Software Engineering Intern \hfill Hartford, CT \textbar \space June 2023 - August 2023 % Company name and location
+\begin{itemize}
+    \item Crafted and maintained high-quality code and architecture as an Android developer using Kotlin alongside Hilt, MVVM Design Pattern, Retrofit, fullstack Android development, OOP, and REST APIs; delivered on new feature work and undertook bugs and technical debt in an Agile environment % Job responsibilities and achievements
+    \item Led development for proof of concept “Today’s Weather” feature in the Android app giving comprehensive environmental insights based on local weather metrics tailored to people with COPD
+
+\end{itemize}
+
+% Projects Section
+\section*{PROJECTS}
+\noindent
+\textbf{Graphical Editor}\\ % Project name and location
+\textit{Project Link:} \url{https://github.com/tylernh10/graphical-editor} \hfill November 2022 - January 2023 % Project link and duration
+\begin{itemize}[topsep=3pt]
+    \item Created with C++ and Allegro5 game engine; GUI allowing a user to draw, insert, delete, move shapes, and more; designed complex actions through keybinds and  GUI; used MVC, Observer, and Command patterns % Project description and contributions
+\end{itemize}
+
+% Additional Project
+\noindent
+\textbf{Personal Website}\\ % Project name and location
+\textit{Project Link:} \url{https://tylerhinrichs.com/} \hfill January 2022 - Present % Project link and duration
+\begin{itemize}[topsep=3pt]
+    \item Developed a sleek and responsive website using HTML, CSS, and JavaScript % Project description and contributions
+\end{itemize}
+
+% Additional Project
+\noindent
+\textbf{NitroBot}\\ % Project name and location
+\textit{Project Link:} \url{https://github.com/tylernh10/nitro-bot} \hfill March 2023 - Present % Project link and duration
+\begin{itemize}[topsep=3pt]
+    \item Python typing bot made with Selenium and CustomTkinter % Project description and contributions
+\end{itemize}
+
+% Additional Project
+\noindent
+\textbf{WeatherWise}\\ % Project name and location
+\textit{Project Link:} \url{https://github.com/tylernh10/weatherwise} \hfill Month Year % Project link and duration
+\begin{itemize}[topsep=3pt]
+    \item Android app synthesizing Google Places API and Visual Crossing weather API to help users plan their day % Project description and contributions
+\end{itemize}
+
+% Skills Section
+\section*{SKILLS}
+\begin{itemize}
+    \item \textbf{Relevant Coursework:} Computer Science: Data Structures and Object-Oriented Design (Python), Discrete Systems, Systems Programming (C), Algorithms and Complexity, Computer Architecture (RISC-V), Software Engineering (Java), C++ Essentials (C++), Advanced Data Manipulation and Analysis with Python (Python), Mobile Application Development (Kotlin), Cybersecurity Lab (Python), Databases (SQL/MySQL/MongoDB) % Relevant coursework
+    \item \textbf{Programming:} Python, Kotlin, Java, C++, C, HTML/CSS, JavaScript, Git/GitHub, Android Development, Linux, OOP, SQL, MySQL, MongoDB, Selenium, Flask % Programming skills
+\end{itemize}
+
+% End document
+\end{document}
