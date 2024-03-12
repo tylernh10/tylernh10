@@ -12,7 +12,7 @@
 - My website: [tylerhinrichs.com](https://tylerhinrichs.com)
 - My Leetcode: [leetcode.com/tyler99](https://leetcode.com/tyler99)
 - My LinkedIn: [tylerhinrichs](https://www.linkedin.com/in/tylerhinrichs)
-- My resume: [resume](https://github.com/tylernh10/tylernh10/blob/main/Tyler_Hinrichs_Resume.pdf)
+- My resume: [resume](https://github.com/tylernh10/tylernh10/blob/main/Tyler_Hinrichs_resume.pdf)
 - Lecture videos on testing Android Apps: [here](https://www.youtube.com/watch?v=mviSXhgEc8A) and [here](https://www.youtube.com/watch?v=SjbA-RDVruc&t=430s)
   - 👨‍🏫 Created in the UConn lightroom for CSE 3200
 
