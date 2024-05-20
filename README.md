@@ -2,7 +2,7 @@
 
 ### Fullstack Software Engineer
 
-- :hammer: Python, C++, Kotlin, JavaScript, and more
+- :hammer: Python, JavaScript, Kotlin, Java, and more
 - :computer: Experience
     - :blue_square: TA for CSE 3200 @ UConn, Mobile App Dev (August 2023 - May 2024)
     - :red_square: SWE Intern @ Travelers (June 2023 - August 2023)
