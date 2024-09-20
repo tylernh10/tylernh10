@@ -2,11 +2,8 @@
 
 ### Fullstack Software Engineer
 
-- :hammer: Python, JavaScript, Kotlin, Java, and more
-- :computer: Experience
-    - :blue_square: TA for CSE 3200 @ UConn, Mobile App Dev (August 2023 - May 2024)
-    - :red_square: SWE Intern @ Travelers (June 2023 - August 2023)
-    - :green_square: SWE Intern, Junior SWE @ Wellinks (June 2022 - March 2023)
+- :computer: SWE @ Travelers in Engineering Development Program
+- :hammer: Python, JavaScript, Reaact, Kotlin, and more
 - :man_student: Honors CS Graduate from UConn, Class of 2024
 
 #### Links to check out: 
