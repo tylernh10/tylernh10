@@ -3,8 +3,8 @@
 ### Fullstack Software Engineer
 
 - :computer: SWE @ Travelers in Engineering Development Program
-- :hammer: Python, JavaScript, Reaact, Kotlin, and more
-- :man_student: Honors CS Graduate from UConn, Class of 2024
+- :hammer: TypeScript, Python, React, Kotlin, and more
+- :man_student: CS Graduate from UConn, Class of 2024
 
 #### Links to check out: 
 - My website: [tylerhinrichs.com](https://tylerhinrichs.com)
@@ -18,4 +18,7 @@
 
 #### Some of my other interests:
 - 🎧 Music production - check out my work on my linktree [here](https://linktr.ee/tyfreestyle) and on Audiotool [here](https://audiotool.com/user/tylernh99)
-- 🧩 Tetris - check out my stats [here](https://ch.tetr.io/u/tyfreestyle) and my tetrio config settings [in this repo](https://github.com/tylernh10/tylernh10/blob/main/tetrio-config)
+- 🧩 Tetris - I play on [tetr.io](https://tetr.io) and [jstris](https://jstris.jezevec10.com/)!
+  -  [tetr.io stats](https://ch.tetr.io/u/tyfreestyle)
+  -  [tetrio config settings](https://github.com/tylernh10/tylernh10/blob/main/tetrio-config)
+  -  [jstris stats](https://jstris.jezevec10.com/u/Tyf)
